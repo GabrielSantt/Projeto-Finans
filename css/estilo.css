@@ -1,6 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body,html{
+	margin: 0px;
+	padding: 0px;
+}
 #home {
 	background: #ffc107;
 	color: white;
+}
+.img{
+	width: 95%;
+}
+.titulo{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	
 }
 .caixa{
 	padding: 60px 0px;
